@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <section className="text-center bg-gradient-to-r from-pink-300 via-pink-100 to-pink-50">
       <section className="align-element py-16 grid lg:grid-cols-3  xl:grid-cols-3 gap-5">
-        <a clasName="self-center" href="https://lecure.org/">
+        <a className="self-center" href="https://lecure.org/">
           <img
             className="h-20 w-20"
             src="https://lecure.org/wp-content/themes/lecure-theme-v4/library/img/le-cure-logo.png"

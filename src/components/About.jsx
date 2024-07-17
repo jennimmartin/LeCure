@@ -3,7 +3,7 @@ import SectionTitle from "./SectionTitle";
 const About = () => {
   return (
     <section id="about">
-      <div className="align-element">
+      <div className="align-element py-10">
         <SectionTitle text="the challenge" />
         <p className="text-justify py-6">Hey there!</p>
         <p className="text-justify py-3">

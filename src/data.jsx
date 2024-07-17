@@ -158,3 +158,34 @@ export const trains = [
     comments: "Petit St Bernard with Cedric, Rach and Sam",
   },
 ];
+
+export const events = [
+  {
+    id: nanoid(),
+    date: "21.08.2024",
+    route: "Meribel to Meribel",
+    distance: "76km",
+    climb: "2,391m",
+  },
+  {
+    id: nanoid(),
+    date: "22.08.2024",
+    route: "Meribel to Aosta",
+    distance: "145.6km",
+    climb: "2,857m",
+  },
+  {
+    id: nanoid(),
+    date: "23.08.2024",
+    route: "Aosta to Verbier",
+    distance: "79.7km",
+    climb: "2,2763m",
+  },
+  {
+    id: nanoid(),
+    date: "24.08.2024",
+    route: "Verbier to Chamonix",
+    distance: "76km",
+    climb: "2,391m",
+  },
+];
