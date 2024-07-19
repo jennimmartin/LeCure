@@ -1,4 +1,5 @@
 import Img1 from "../images/profile.jpg";
+import { FaStrava } from "react-icons/fa";
 
 const Hero = () => {
   return (
@@ -12,11 +13,15 @@ const Hero = () => {
             <h1 className="text-5xl text-pink-500 font-bold tracking-wider capitalize">
               Jenni's Training Record
             </h1>
-            <p className="mt-4 text-3xl font-light tracking-wide ">
+            <p className="mt-4 text-3xl font-light tracking-wide py-3 ">
               Follow my training and progress in this year's Le Cure charity
               event!
             </p>
+            <a href="https://www.strava.com/athletes/132982945">
+              <FaStrava className="h-8 w-8 text-orange-500 hover:text-black duration-300" />
+            </a>
           </article>
+
           <article className="hidden md:block">
             <img
               src={Img1}
