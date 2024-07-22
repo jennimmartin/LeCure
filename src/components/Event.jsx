@@ -33,7 +33,7 @@ const Trains = () => {
       </p>
       <p className="text-justify py-3">
         Thank you for your kind donations and support. If you haven't sponsored
-        me as yet it's never to late and every penny is appreciated.
+        me as yet it's never too late and every penny is appreciated.
       </p>
     </section>
   );

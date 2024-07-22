@@ -8,7 +8,7 @@ const Hero = () => {
         className="bg-gradient-to-r from-pink-300 via-pink-100 to-pink-50 pt-10"
         id="home"
       >
-        <div className="align-element grid md:grid-cols-2 items-center gap-8 py-6">
+        <div className="align-element grid md:grid-cols-2 items-center gap-8 py-12">
           <article>
             <h1 className="text-5xl text-pink-500 font-bold tracking-wider capitalize">
               Jenni's Training Record
