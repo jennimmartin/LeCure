@@ -157,6 +157,14 @@ export const trains = [
     elevation: "3,530m",
     comments: "Petit St Bernard with Cedric, Rach and Sam",
   },
+  {
+    id: nanoid(),
+    title: "week 19 - w/c 15.07.2024",
+    distance: "223.3km",
+    duration: "10h 6m",
+    elevation: "1,898m",
+    comments: "First climb to the house (Hautecour).",
+  },
 ];
 
 export const events = [

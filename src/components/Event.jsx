@@ -12,8 +12,8 @@ const Trains = () => {
         and the support team. It will be great to put faces to names and get
         ready for the Grand Depart the next day. At the time of writing I can't
         get my head around tackling so many climb and kilometers over back to
-        back days. I have added below the stats of each day's riding that I will
-        be attempting to ride.
+        back days. Below are the crazy riding stats of each day's riding that I
+        will be attempting to ride.
       </p>
       <div className="py-16 grid lg:grid-cols-2  xl:grid-cols-4 gap-8">
         {events.map((event) => {
@@ -24,11 +24,16 @@ const Trains = () => {
         I plan on adding a tracking link to enable you to keep an eye on me,
         should you wish to watch a dot move very slowly around a map of the
         Alps. I am expecting cycling through Hautecour will be mentally quite
-        tough, could be quite tempting to just go home and see the cats.
+        tough, could be quite tempting to just go home and spend the day with
+        the cats.
+      </p>
+      <p className="text-justify py-3">
+        Further information can be found be found on Le Cure website. You can
+        also read about The Royal Marsden Cancer Charity, both linked below.
       </p>
       <p className="text-justify py-3">
         Thank you for your kind donations and support. If you haven't sponsored
-        me as yet it's never to late and every penny is appeciated.
+        me as yet it's never to late and every penny is appreciated.
       </p>
     </section>
   );

@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Training from "./components/Training";
 import Event from "./components/Event";
+import Button from "./components/Button";
 
 import Footer from "./components/Footer";
 

@@ -1,11 +1,12 @@
 import { links } from "../data";
+import Button from "./Button";
 
 const Navbar = () => {
   return (
     <nav className="fixed w-full  top-0 z-50 start-0 border-b border-pink-200 dark:border-pink-600fixed w-full bg-gradient-to-r from-pink-300 via-pink-100 to-pink-50 top-0 z-50 start-0 border-b border-pink-200 dark:border-pink-600">
       <div className="bg-gradient-to-r from-pink-300 via-pink-100 to-pink-50">
         <div className=" max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-3">
-          <h2 className="text-3xl text-pink-500 font-bold">JMM</h2>
+          <Button />
           <div className="flex gap-x-3  px-8">
             {links.map((link) => {
               const { id, href, text } = link;
