@@ -97,7 +97,7 @@ export const trains = [
     distance: "69.73km",
     duration: "3h 39m",
     elevation: "468m",
-    comments: "Training continues in Norfolk, on old Trek mountain bike.",
+    comments: "Training continues in Norfolk, on my old Trek mountain bike.",
   },
   {
     id: nanoid(),
@@ -113,7 +113,7 @@ export const trains = [
     distance: "198.42km",
     duration: "8h 39m",
     elevation: "1,148m",
-    comments: "Anncey loop from Albertville with Rach.",
+    comments: "Annecy loop from Albertville with Rach.",
   },
   {
     id: nanoid(),

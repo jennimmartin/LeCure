@@ -8,9 +8,10 @@ const About = () => {
         <SectionTitle text="the challenge" />
         <p className="text-justify py-6">Hey there!</p>
         <p className="text-justify py-3">
-          Welcome to my first webpage. At the start of the year I signed up for
-          a pretty intense charity cycle event. This is where I am going to
-          record my training progression and the event itself.
+          Welcome to my first webpage that I've coded. At the start of the year
+          I signed up for a pretty intense charity cycle event. This is where I
+          am going to record a snapshot of all the training that went into the
+          event. Plus the high's and low's of each day of the event.
         </p>
         <p className="text-justify py-3">
           First a little background information. Back in 2022 I invested in my
@@ -32,9 +33,9 @@ const About = () => {
         </p>
         <p className="text-justify py-3">
           Each year the Curistas climb more vertical metres than Mount Everest.
-          This year the course will wind through 386km through France, Italy and
-          Switzerland before returning to France in Chamonix to finish at the
-          foot of the Mt Blanc. Having completed a climb total of 10,413 meters.
+          This year the course will wind through 386km in France, Italy and
+          Switzerland before returning to France, Chamonix to finish at the foot
+          of the Mt Blanc - having completed a climb total of 10,413 meters!
         </p>
         <p className="text-justify py-3">
           This is going to be an incredibly hard challenge. In previous years
