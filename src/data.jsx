@@ -71,7 +71,7 @@ export const trains = [
     distance: "117.53km",
     duration: "5h 17m",
     elevation: "482m",
-    comments: "Solo ride to Albertville, with decent from Hautecour.",
+    comments: "Solo ride to Albertville, with descent from Hautecour.",
   },
   {
     id: nanoid(),
@@ -187,7 +187,7 @@ export const events = [
     date: "23.08.2024",
     route: "Aosta to Verbier",
     distance: "79.7km",
-    climb: "2,2763m",
+    climb: "2,763m",
   },
   {
     id: nanoid(),

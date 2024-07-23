@@ -11,7 +11,7 @@ const About = () => {
           Welcome to my first webpage, that I've coded. At the start of the year
           I signed up for a pretty intense charity cycle event. This is where I
           am going to record a snapshot of all the training that went into the
-          event. Plus the high's and low's as I work my way around the course.
+          event. Plus the highs and lows as I work my way around the course.
         </p>
         <p className="text-justify py-3">
           First, a little background information. Back in 2022 I invested in my
