@@ -17,8 +17,8 @@ const About = () => {
           First, a little background information. Back in 2022 I invested in my
           first road bike, for those interested a Liv Langma Advanced Disc 2, a
           metallic purple bike. It’s actually not the bike I ordered! Due to
-          Covid and the shipping crisis my bike didn’t turn up! Giant the store,
-          got in contact and suggested that I came in to take a look at
+          Covid and the shipping crisis my bike didn’t turn up! Giant (the
+          store) got in contact and suggested that I came in to take a look at
           something similar in my size which had just arrived, "let's get you
           out on the road."
         </p>
