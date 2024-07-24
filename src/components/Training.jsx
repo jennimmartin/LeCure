@@ -10,7 +10,7 @@ const Trains = () => {
         <p className="text-justify py-3">
           Already, I have questioned why I signed up for this event. Why would
           anyone enjoy climbing up a 12 percent gradient in the pouring rain, my
-          back wasn't very happy. Below is a snap shot of my training to date,
+          back wasn't very happy. Below is a snapshot of my training to date,
           scheduled updates will be on Sunday evenings.
         </p>
         <div className="py-16 grid lg:grid-cols-2  xl:grid-cols-4 gap-8">
