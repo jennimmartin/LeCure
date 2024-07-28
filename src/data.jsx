@@ -165,6 +165,14 @@ export const trains = [
     elevation: "1,898m",
     comments: "First climb to the house (Hautecour).",
   },
+  {
+    id: nanoid(),
+    title: "week 20 - w/c 22.07.2024",
+    distance: "76.6km",
+    duration: "4h 13m",
+    elevation: "1,087m",
+    comments: "Pink road up Seez, TDF route.  UK trip.",
+  },
 ];
 
 export const events = [
