@@ -171,7 +171,7 @@ export const trains = [
     distance: "76.6km",
     duration: "4h 13m",
     elevation: "1,087m",
-    comments: "Pink road up Seez, TDF route.  UK trip.",
+    comments: "Pink road up from Seez, TDF route.  UK trip.",
   },
 ];
 
