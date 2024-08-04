@@ -173,6 +173,14 @@ export const trains = [
     elevation: "1,087m",
     comments: "Pink road up from Seez, TDF route.  UK trip.",
   },
+  {
+    id: nanoid(),
+    title: "week 21 - w/c 29.07.2024",
+    distance: "266.62km",
+    duration: "14h 50m",
+    elevation: "4,305m",
+    comments: "Very hot week, Col de la Madeline. Plus few climbs to Hautecour",
+  },
 ];
 
 export const events = [
