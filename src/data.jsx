@@ -181,6 +181,15 @@ export const trains = [
     elevation: "4,305m",
     comments: "Very hot week, Col de la Madeline. Plus few climbs to Hautecour",
   },
+  {
+    id: nanoid(),
+    title: "week 22 - w/c 05.08.2024",
+    distance: "0km",
+    duration: "0h 0m",
+    elevation: "0m",
+    comments:
+      "Unable to train this week due to illness.  First major set back of training.  Hoping to bounce back next week.",
+  },
 ];
 
 export const events = [
