@@ -1,4 +1,4 @@
-const EventCard = ({ date, route, distance, climb }) => {
+const EventCard = ({ date, route, distance, climb, high, low }) => {
   return (
     <article className="bg-white rounded-lg shadow-md hover:shadow-xl duration-300">
       <div className="p-8 text-center">
@@ -6,6 +6,8 @@ const EventCard = ({ date, route, distance, climb }) => {
         <p>{route}</p>
         <p>{distance}</p>
         <p>{climb}</p>
+        <p>Highlight: {high}</p>
+        <p>Low point: {low}</p>
       </div>
     </article>
   );

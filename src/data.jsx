@@ -199,6 +199,8 @@ export const events = [
     route: "Meribel to Meribel",
     distance: "76km",
     climb: "2,391m",
+    high: "TBC",
+    low: "TBC",
   },
   {
     id: nanoid(),
@@ -206,6 +208,8 @@ export const events = [
     route: "Meribel to Aosta",
     distance: "145.6km",
     climb: "2,857m",
+    high: "TBC",
+    low: "TBC",
   },
   {
     id: nanoid(),
@@ -213,6 +217,8 @@ export const events = [
     route: "Aosta to Verbier",
     distance: "79.7km",
     climb: "2,763m",
+    high: "TBC",
+    low: "TBC",
   },
   {
     id: nanoid(),
@@ -220,5 +226,7 @@ export const events = [
     route: "Verbier to Chamonix",
     distance: "76km",
     climb: "2,391m",
+    high: "TBC",
+    low: "TBC",
   },
 ];
