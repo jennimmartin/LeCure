@@ -190,6 +190,15 @@ export const trains = [
     comments:
       "Unable to train this week due to illness.  First major set back of training.  Hoping to bounce back next week.",
   },
+  {
+    id: nanoid(),
+    title: "week 23 - w/c 12.08.2024",
+    distance: "35.33km",
+    duration: "1h 33m",
+    elevation: "357m",
+    comments:
+      "Mainly had to rest due to illness.  Gentle ride out on Sunday, tough to get started but did settle. ",
+  },
 ];
 
 export const events = [
