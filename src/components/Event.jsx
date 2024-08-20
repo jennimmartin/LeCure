@@ -28,7 +28,7 @@ const Trains = () => {
         the cats!
       </p>
       <p className="text-justify py-3">
-        During the event you can click on the donation link and an Track Link
+        During the event you can click on the donation link and a Track Link
         will be availble. If I am cycling the active tracking will be live.
       </p>
       <p className="text-justify py-3">
