@@ -21,11 +21,15 @@ const Trains = () => {
         })}
       </div>
       <p className="text-justify py-3">
-        Closer to the time, I will add highs and lows to each day so you can see
-        how I am getting on. I think I will be pretty tired so updates will be
-        small during the event. I am expecting cycling through Hautecour to be
-        mentally quite tough, could be quite tempting to just go home and spend
-        the day with the cats!
+        I will add highs and lows to each day so you can see how I am getting
+        on. I think I will be pretty tired so updates will be small during the
+        event. I am expecting cycling through Hautecour to be mentally quite
+        tough, could be quite tempting to just go home and spend the day with
+        the cats!
+      </p>
+      <p className="text-justify py-3">
+        During the event you can click on the donation link and an Track Link
+        will be availble. If I am cycling the active tracking will be live.
       </p>
       <p className="text-justify py-3">
         Further information can be found be found on Le Cure website, the climbs
