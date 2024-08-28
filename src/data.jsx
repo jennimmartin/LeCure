@@ -5,6 +5,7 @@ export const links = [
   { id: nanoid(), href: "#about", text: "about" },
   { id: nanoid(), href: "#training", text: "training" },
   { id: nanoid(), href: "#event", text: "event" },
+  { id: nanoid(), href: "#gallery", text: "gallery" },
 ];
 
 export const trains = [
@@ -199,6 +200,14 @@ export const trains = [
     comments:
       "Mainly had to rest due to illness.  Gentle ride out on Sunday, tough to get started but did settle. ",
   },
+  {
+    id: nanoid(),
+    title: "week 24 - w/c 19.08.2024",
+    distance: "3,044km",
+    duration: "163h 40m",
+    elevation: "37,041m",
+    comments: "My riding totals up to and including the event.",
+  },
 ];
 
 export const events = [
@@ -207,6 +216,7 @@ export const events = [
     date: "21.08.2024",
     route: "Meribel to Meribel",
     distance: "77.17km",
+    duration: "6h 14m",
     climb: "2,393m",
     high: "Riding for the descents, and actually making it around the course!",
     low: "Col de la Loze - I was right to be concerned about this.  It was beast of a climb.  No idea how I kept up forward momentum during spicy parts.",
@@ -215,27 +225,63 @@ export const events = [
     id: nanoid(),
     date: "22.08.2024",
     route: "Meribel to Aosta",
-    distance: "145.6km",
-    climb: "2,857m",
-    high: "TBC",
-    low: "TBC",
+    distance: "148.46km",
+    duration: "9h 6m",
+    climb: "2,871m",
+    high: "Finally reaching the top of the third climb, but there was still 56km descent left to go!",
+    low: "Second climb of the day in baking heat.  Luckily having cold water tipped over my head got me up there.  Am I allowed two low point?  Cause the second was getting off my bike and actually being more comfortable on it - nine hours in the saddle is a really long time.",
   },
   {
     id: nanoid(),
     date: "23.08.2024",
     route: "Aosta to Verbier",
-    distance: "79.7km",
-    climb: "2,763m",
-    high: "TBC",
-    low: "TBC",
+    distance: "80.98km",
+    duration: "6h 53m",
+    climb: "2,673m",
+    high: "Every sip of cool water from the support team, and having enough energy to be welcomed in to Verbier by fellow Curistas.",
+    low: "Was a slog from the moment I got on the bike.  Felt sick and legs where so heavily, spent all day thinking I can't do this.",
   },
   {
     id: nanoid(),
     date: "24.08.2024",
     route: "Verbier to Chamonix",
-    distance: "76km",
-    climb: "2,391m",
-    high: "TBC",
-    low: "TBC",
+    distance: "61.05km",
+    duration: "3h 55m",
+    climb: "1,364m",
+    high: "Seeing Mt Blanc for the first time just a few km's from the finish.",
+    low: "Knowing the previous day's cycling had taking it's toll.  Due to a little detour on routing ended up on a very steep climb, was very worried about tumbling over when stopping for a rest or trying to get going again.",
+  },
+];
+
+export const list = [
+  {
+    id: nanoid(),
+    image:
+      "https://lh3.googleusercontent.com/pw/AP1GczMno3HXC_QycCEd9OHsnM4y5t_c-9QZ2kCF0Be6h646SHR6rf1OfVbLwsHbuNoNFQUl3OZI_jvB9BXiDUg5Q2JJEpWHlDR5mVqGqXl63vNsDDoh-0rBpoyE6SLxpfXIYvBSDGuRVA7P5kGI0uZZcagyZQ=w1012-h759-s-no",
+    text: "Grand Depart",
+  },
+  {
+    id: nanoid(),
+    image:
+      "https://lh3.googleusercontent.com/pw/AP1GczNL8DIGhiNkoWXxE-nyEiX7PgwfnU_pbwAbb-8LgFWY5jphC0ai9qAkh06u0O-TOxpjU5OZ0xEhiRx_LOTNCh6EtRGS5csbUmdZoh07a5Ag_36bc6rChkaCCJw517iTup0-0Y0H6usydPXwYlL9VRAOnA=w1333-h1000-s-no",
+    text: "Lunch stop day one",
+  },
+  {
+    id: nanoid(),
+    image:
+      "https://lh3.googleusercontent.com/pw/AP1GczNvV4KOSLa_kDICC52D-0ogdlLWcrStlU2ZJrzub6XBc0FR8NiAHrA66EAccmIPOqZ8ypq3yZHn1xKLCOMijraXkXbvguUJSsGux1PFFLROrSb9PkLI6G2WuhCflEzs8ZOplX2B2zOGrtrKeWj7GPnZGA=w1333-h1000-s-no",
+    text: "Crossing to Italy on day two",
+  },
+  {
+    id: nanoid(),
+    image:
+      "https://lh3.googleusercontent.com/pw/AP1GczMqrRbcpSSV1w4bLCVEcxJLNfrqqLPAABypRKrsqKuQAaem0uV8VUY3LiOVsiI5xUvk7l62HmETsVp_tDJKJJCwsEF6Vqhbn60rZt-umNYCtqW_D7hQHv7VTaQiZme8WTMf4UTSZ38HyOjFn8NMt1I_iw=w1333-h1000-s-no",
+    text: "Beautiful on Grand St Bernard",
+  },
+  {
+    id: nanoid(),
+    image:
+      "https://photos.lecure.org/_data/i/upload/2024/08/26/20240826140058-7e6e754a-me.jpg",
+    text: "I made it up the final climb",
   },
 ];

@@ -7,3 +7,19 @@
     @apply mx-auto max-w-7xl px-8;
   }
 }
+
+.slick-container {
+  margin: 0 auto;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  width: 80vw;
+  max-width: 800px;
+  text-align: center;
+}
+
+.slick-prev::before {
+  color: #ec4899 !important;
+}
+.slick-next::before {
+  color: #ec4899 !important;
+}
