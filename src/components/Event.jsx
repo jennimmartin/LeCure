@@ -29,11 +29,11 @@ const Trains = () => {
       </div>
       <p className="text-justify py-3">
         I really did find out what your body can be capable of over a prolonged
-        time. I went in to the event not 100%, still coughing, having missed two
-        weeks of training. I got round by managing my effort and using all the
-        knowledge Suzanne Duncanson my Alexander Technique teacher taught whilst
-        living with RSI. It was horrendously hot at times, with my Garmin
-        recording temperatures over 45 degrees.
+        period time. I went in to the event not 100%, still coughing, having
+        missed two weeks of training. I got round by managing my effort and
+        using all the knowledge Suzanne Duncanson, my Alexander Technique
+        teacher, taught whilst living with RSI. It was horrendously hot at
+        times, with my Garmin recording temperatures over 45 degrees.
       </p>
       <p className="text-justify py-3">
         The real unexpected bonus of the ride was how much my skill level

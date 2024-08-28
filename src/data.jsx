@@ -219,7 +219,7 @@ export const events = [
     duration: "6h 14m",
     climb: "2,393m",
     high: "Riding for the descents, and actually making it around the course!",
-    low: "Col de la Loze - I was right to be concerned about this.  It was beast of a climb.  No idea how I kept up forward momentum during spicy parts.",
+    low: "Col de la Loze - I was right to be concerned about this.  It was beast of a climb.  No idea how I kept up forward momentum during the spicy parts.",
   },
   {
     id: nanoid(),
@@ -229,7 +229,7 @@ export const events = [
     duration: "9h 6m",
     climb: "2,871m",
     high: "Finally reaching the top of the third climb, but there was still 56km descent left to go!",
-    low: "Second climb of the day in baking heat.  Luckily having cold water tipped over my head got me up there.  Am I allowed two low point?  Cause the second was getting off my bike and actually being more comfortable on it - nine hours in the saddle is a really long time.",
+    low: "Second climb of the day in baking heat.  Luckily having cold water tipped over my head got me up there.  Am I allowed two low points?  Because the second was getting off my bike and actually being more comfortable on it - nine hours in the saddle is a really long time.",
   },
   {
     id: nanoid(),
@@ -239,7 +239,7 @@ export const events = [
     duration: "6h 53m",
     climb: "2,673m",
     high: "Every sip of cool water from the support team, and having enough energy to be welcomed in to Verbier by fellow Curistas.",
-    low: "Was a slog from the moment I got on the bike.  Felt sick and legs where so heavily, spent all day thinking I can't do this.",
+    low: "Was a slog from the moment I got on the bike.  Felt sick and legs where so heavy, spent all day thinking, I can't do this.",
   },
   {
     id: nanoid(),
@@ -258,30 +258,30 @@ export const list = [
     id: nanoid(),
     image:
       "https://lh3.googleusercontent.com/pw/AP1GczMno3HXC_QycCEd9OHsnM4y5t_c-9QZ2kCF0Be6h646SHR6rf1OfVbLwsHbuNoNFQUl3OZI_jvB9BXiDUg5Q2JJEpWHlDR5mVqGqXl63vNsDDoh-0rBpoyE6SLxpfXIYvBSDGuRVA7P5kGI0uZZcagyZQ=w1012-h759-s-no",
-    text: "Grand Depart",
+    text: "Le grand depart",
   },
   {
     id: nanoid(),
     image:
       "https://lh3.googleusercontent.com/pw/AP1GczNL8DIGhiNkoWXxE-nyEiX7PgwfnU_pbwAbb-8LgFWY5jphC0ai9qAkh06u0O-TOxpjU5OZ0xEhiRx_LOTNCh6EtRGS5csbUmdZoh07a5Ag_36bc6rChkaCCJw517iTup0-0Y0H6usydPXwYlL9VRAOnA=w1333-h1000-s-no",
-    text: "Lunch stop day one",
+    text: "Lunch stop, day one",
   },
   {
     id: nanoid(),
     image:
       "https://lh3.googleusercontent.com/pw/AP1GczNvV4KOSLa_kDICC52D-0ogdlLWcrStlU2ZJrzub6XBc0FR8NiAHrA66EAccmIPOqZ8ypq3yZHn1xKLCOMijraXkXbvguUJSsGux1PFFLROrSb9PkLI6G2WuhCflEzs8ZOplX2B2zOGrtrKeWj7GPnZGA=w1333-h1000-s-no",
-    text: "Crossing to Italy on day two",
+    text: "Crossing over to Italy on day two",
   },
   {
     id: nanoid(),
     image:
       "https://lh3.googleusercontent.com/pw/AP1GczMqrRbcpSSV1w4bLCVEcxJLNfrqqLPAABypRKrsqKuQAaem0uV8VUY3LiOVsiI5xUvk7l62HmETsVp_tDJKJJCwsEF6Vqhbn60rZt-umNYCtqW_D7hQHv7VTaQiZme8WTMf4UTSZ38HyOjFn8NMt1I_iw=w1333-h1000-s-no",
-    text: "Beautiful on Grand St Bernard",
+    text: "Beautiful long climb up the Grand St Bernard",
   },
   {
     id: nanoid(),
     image:
       "https://photos.lecure.org/_data/i/upload/2024/08/26/20240826140058-7e6e754a-me.jpg",
-    text: "I made it up the final climb",
+    text: "I made it up the final climb!",
   },
 ];
