@@ -13,10 +13,10 @@ const Hero = () => {
         <div className="align-element grid md:grid-cols-2 items-center gap-8 py-12">
           <article>
             <h1 className="text-5xl text-pink-500 font-bold tracking-wider capitalize">
-              Training and Event Log
+              Training And Event Log
             </h1>
             <p className="mt-4 text-3xl font-light tracking-wide py-3 ">
-              Raising money for Breast Cancer at Le Cure 2024
+              Raising Money For Breast Cancer At Le Cure 2024
             </p>
 
             <a href="https://www.strava.com/athletes/132982945">
