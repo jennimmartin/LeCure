@@ -12,7 +12,7 @@ const Footer = () => {
         <a className="self-center" href="https://www.royalmarsden.org/">
           <img
             className="h-20 w-40 "
-            src="https://www.royalmarsden.org/themes/custom/rmcc/logo.svg"
+            src="https://cdn.prod.website-files.com/686503a104872ad6ee20d96e/688cd3f42a235d4c8973ff2f_logo-RMCC%205.svg"
             alt="royal marsden logo"
           />
         </a>
@@ -28,10 +28,20 @@ const Footer = () => {
         </a>
       </section>
       <h5>
-        created by jennimmartin | &copy;{""}
-        {new Date().getFullYear()}
+        Created by{" "}
+        <a
+          href="https://jennimmartin.com"
+          target="_blank"
+          rel="noopener
+          noreferrer"
+          className="hover:text-pink-500 transition-colors
+          duration-300"
+        >
+          Jenni M Martin{" "}
+        </a>
+        {" | "}
+        &copy; {new Date().getFullYear()}
       </h5>
-      <div className="border-b-2 border-pink-500"></div>
     </section>
   );
 };
