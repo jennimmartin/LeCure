@@ -5,7 +5,6 @@ export const links = [
   { id: nanoid(), href: "#about", text: "about" },
   { id: nanoid(), href: "#training", text: "training" },
   { id: nanoid(), href: "#event", text: "event" },
-  { id: nanoid(), href: "#gallery", text: "gallery" },
 ];
 
 export const trains = [
@@ -256,32 +255,22 @@ export const events = [
 export const list = [
   {
     id: nanoid(),
-    image:
-      "https://lh3.googleusercontent.com/pw/AP1GczMno3HXC_QycCEd9OHsnM4y5t_c-9QZ2kCF0Be6h646SHR6rf1OfVbLwsHbuNoNFQUl3OZI_jvB9BXiDUg5Q2JJEpWHlDR5mVqGqXl63vNsDDoh-0rBpoyE6SLxpfXIYvBSDGuRVA7P5kGI0uZZcagyZQ=w1012-h759-s-no",
-    text: "Le grand depart",
+    image: "https://photos.lecure.org/picture.php?/6212/category/54",
+    text: "Col de la Loze, finally climbing it",
   },
   {
     id: nanoid(),
-    image:
-      "https://lh3.googleusercontent.com/pw/AP1GczNL8DIGhiNkoWXxE-nyEiX7PgwfnU_pbwAbb-8LgFWY5jphC0ai9qAkh06u0O-TOxpjU5OZ0xEhiRx_LOTNCh6EtRGS5csbUmdZoh07a5Ag_36bc6rChkaCCJw517iTup0-0Y0H6usydPXwYlL9VRAOnA=w1333-h1000-s-no",
-    text: "Lunch stop, day one",
+    image: "https://photos.lecure.org/picture.php?/6218/category/55",
+    text: "A view very close to home",
   },
   {
     id: nanoid(),
-    image:
-      "https://lh3.googleusercontent.com/pw/AP1GczNvV4KOSLa_kDICC52D-0ogdlLWcrStlU2ZJrzub6XBc0FR8NiAHrA66EAccmIPOqZ8ypq3yZHn1xKLCOMijraXkXbvguUJSsGux1PFFLROrSb9PkLI6G2WuhCflEzs8ZOplX2B2zOGrtrKeWj7GPnZGA=w1333-h1000-s-no",
-    text: "Crossing over to Italy on day two",
-  },
-  {
-    id: nanoid(),
-    image:
-      "https://lh3.googleusercontent.com/pw/AP1GczMqrRbcpSSV1w4bLCVEcxJLNfrqqLPAABypRKrsqKuQAaem0uV8VUY3LiOVsiI5xUvk7l62HmETsVp_tDJKJJCwsEF6Vqhbn60rZt-umNYCtqW_D7hQHv7VTaQiZme8WTMf4UTSZ38HyOjFn8NMt1I_iw=w1333-h1000-s-no",
+    image: "https://photos.lecure.org/picture.php?/6222/category/56",
     text: "Beautiful long climb up the Grand St Bernard",
   },
   {
     id: nanoid(),
-    image:
-      "https://photos.lecure.org/_data/i/upload/2024/08/26/20240826140058-7e6e754a-me.jpg",
+    image: "https://photos.lecure.org/picture.php?/6176/category/57",
     text: "I made it up the final climb!",
   },
 ];
